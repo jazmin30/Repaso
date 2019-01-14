@@ -1,0 +1,75 @@
+#navbar{
+	background-color: black;
+	position: fixed;
+	width: 100%;
+	left: 0;
+	top: 0;
+}
+#navbar a{
+	float: right;
+	color: white;
+	margin:10px;
+	font.size: 18px;
+}
+#navbar a:hover {
+	color: black;
+	background-color: white;
+}
+body{
+	background-color: darkorange;
+	padding: 0;
+}
+section	{
+	background-color: white;
+
+}
+.main img{
+	margin:10px;
+	width: 100%
+	height: auto;
+}
+.main img:hover{
+	border:5px black double;
+	width: 100%
+	height: auto;
+
+}
+.main{
+	background-color: white;
+	text-align: justify;
+	margin: 70px 20px
+}
+.main h1{
+	margin: 0px 30px 0;
+	padding: 0 30px 0;
+	text-align: center;
+}
+.main p{
+	margin: 0px 30px 0;
+	padding: 0 20px 0;
+	text-align: justify;
+}
+footer{
+	background-color: black;
+	color: white;
+	text-align: center;
+}
+footer img{
+	margin: 30px;
+
+}
+footer .icons{
+	align-content: center;
+}
+footer span{
+	margin-top: 20px;
+	font-size: 1.5em;
+}
+#formulario{
+	background-color: lightgray;
+	margin:5.5em 0;
+}
+#mapa{
+	background-color: lightgray;
+	margin:5.5em 0;
+}
